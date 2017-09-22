@@ -1,0 +1,5 @@
+D:\pera\GitHub\ThreadPosta\ThreadPosta\bin\Debug\ThreadPosta.exe.config
+D:\pera\GitHub\ThreadPosta\ThreadPosta\bin\Debug\ThreadPosta.exe
+D:\pera\GitHub\ThreadPosta\ThreadPosta\bin\Debug\ThreadPosta.pdb
+D:\pera\GitHub\ThreadPosta\ThreadPosta\obj\Debug\ThreadPosta.exe
+D:\pera\GitHub\ThreadPosta\ThreadPosta\obj\Debug\ThreadPosta.pdb
